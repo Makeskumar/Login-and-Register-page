@@ -1,0 +1,3 @@
+Details for Admin 
+Username :admin@gmail.com
+password : admin1
